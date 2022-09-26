@@ -1,11 +1,21 @@
 <h1 align="center">Hi 👋, I'm Pratish</h1>
+<h3 align="center">A forever tinkerer and a curious fellow.</h3>
+
+<p align="left"> <a href="https://twitter.com/pratish_9" target="blank"><img src="https://img.shields.io/twitter/follow/pratish_9?logo=twitter&style=for-the-badge" alt="pratish_9" /></a> </p>
+
 - 🌱 I’m currently learning **Solidity And Blockchain**
+
+- 👨‍💻 All of my projects are available at [https://github.com/Pratish989?tab=repositories](https://github.com/Pratish989?tab=repositories)
+
+- 💬 Ask me about **Business and Startups**
 
 - 📫 How to reach me **pratish.work1@gmail.com or pratishbusiness999@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@pratish_9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@pratish_9" height="30" width="40" /></a>
+<a href="https://twitter.com/pratish_9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pratish_9" height="30" width="40" /></a>
+<a href="https://instagram.com/pratish_9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pratish_9" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/pratish bakrola" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="pratish bakrola" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
