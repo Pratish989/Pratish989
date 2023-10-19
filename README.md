@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/pratish_9" target="blank"><img src="https://img.shields.io/twitter/follow/pratish_9?logo=twitter&style=for-the-badge" alt="pratish_9" /></a> </p>
 
-- 🌱 I’m currently learning **Solidity And Blockchain**
+- 🌱 I’m currently learning **Fullstack MERN**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Pratish989?tab=repositories](https://github.com/Pratish989?tab=repositories)
 
